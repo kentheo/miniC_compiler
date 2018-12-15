@@ -1,0 +1,5 @@
+int f=5
+'c'
+'\t'
+'\n'
+"this is a string \t with \"escape chars\'"

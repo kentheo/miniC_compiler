@@ -1,0 +1,18 @@
+int* a;
+char x;
+int b;
+int k[10];
+int w[2];
+
+void foo(){
+	sizeof(int);
+	(int)'c';     // This works..BUT CHECK when x is used as char
+	x = 'c';
+	return ;
+}
+
+int main(){
+
+		
+	return b;
+}

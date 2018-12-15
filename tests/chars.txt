@@ -1,0 +1,26 @@
+id_9
+=
+{}()[];,
+int
+void
+char
+if
+else
+while
+return
+struct
+sizeof
+#include
+"kendeas9._,/"
+98
+'\t'
+&&
+||
+==
+!=
+<
+>
+<=
+>=
++ - / * % .
+""

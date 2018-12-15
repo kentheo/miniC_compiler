@@ -1,0 +1,21 @@
+int checker(int a,int b){
+	int c;
+	int x;
+	int k[2];
+	int u[12];
+	if (c - a >= -b){
+		c = a;
+	} else {
+		a;
+	}
+	while(a != b){}
+	
+	return x;
+}
+
+void main(){
+	int a;
+	int b;
+	a = b;
+	if ( checker(a,b) > 3){}
+}

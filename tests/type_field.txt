@@ -1,0 +1,24 @@
+//structtype
+
+struct node_t{
+	
+	int* a;
+
+};
+
+struct node_p{
+	char c;
+	int d;
+
+};
+
+//int node_t;		     // valid to declare a variable with same name as a struct
+char x;
+void foo(){
+	int a;
+	struct node_p newStruct;     // any other struct name should fail
+	
+	x = newStruct.c;
+	
+
+}

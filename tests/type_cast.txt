@@ -1,0 +1,19 @@
+
+char* d;
+int k[10];
+int as[10];
+int* x;
+int i;
+int* p;
+void main(){	 
+	//struct node s;
+	//d = (char*) 'n';
+	print_s(d);
+	x = (int*) k;
+	x = (int*) d;
+	return ;
+	//i = 0;
+	//i + 2 = 3;
+	if (i == 23){}
+}
+

@@ -1,0 +1,11 @@
+//VarDecl
+int k[10];
+char* c;
+
+int m;
+
+int main(){
+	//v[10];   //This shouldn't give null exception
+	k[10] = m;
+	//return k;
+}

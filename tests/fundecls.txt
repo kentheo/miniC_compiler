@@ -1,0 +1,27 @@
+struct t {
+	int i;
+	int k[2];
+};
+
+int x;
+
+//fundecls
+int* progress(int* x, int y, char z ){
+	int a;
+	char* c;
+}
+
+char* progress2(int x, int* y, struct t* z ){
+	while (sizeof(int)){
+		k[1][2] = foo(x,y);
+		if (z[2].g){
+			return true;
+		} else if (foo(x,y).f) {
+			return false;
+		} else return teo[2][2].k;
+	}
+}
+
+struct t* st(void i){
+
+}

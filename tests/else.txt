@@ -1,0 +1,16 @@
+#include "stdio.h"
+int main()
+{
+    int number;
+    foo("Random");
+
+    if(number % 2 == 0)
+        foo("ok", number);
+    else if (c != "test") {
+        foo("not ok", number); }
+    else {
+	foo("correct");
+	main();
+    }
+    return 0;
+}

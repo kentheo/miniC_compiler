@@ -1,0 +1,4 @@
+void c (int i, int f){ 
+int k;
+
+}

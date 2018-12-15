@@ -1,0 +1,16 @@
+//struct type
+struct node_t{
+	int b;
+	int x;
+};
+//vardecl
+
+
+int* checker(char* a, int b, int k){                  
+	if (b == k){}
+	k;
+	
+}
+
+
+

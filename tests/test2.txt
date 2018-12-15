@@ -1,0 +1,1 @@
+if block == 23 joder_99 = 5 pote int "Kendeas is an \ndfdf"; 9 struct '\n'

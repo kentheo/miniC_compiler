@@ -1,0 +1,13 @@
+#include "stdio.h"
+int main()
+{
+	int number;
+        foo("Random");
+
+	if(number % 2 == 0)
+        	foo("ok", number);
+	else
+		foo("sdf",int_2);
+		main('c',c);
+	
+}

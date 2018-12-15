@@ -1,0 +1,13 @@
+struct node_t {
+	int field1; char field2;
+};
+int k[2];
+
+int main(int* p, char c){
+	struct node_t n;
+	int y;
+	//y = two_dim_array[3];
+	if (2 + 3 == 5){
+		return ;
+	}
+}

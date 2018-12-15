@@ -1,0 +1,17 @@
+//fundecl
+char foo(){
+	
+	test(c);
+	2 + 4;
+	-x;
+	while (2 == 4){
+
+	}
+	if (3 && 4) {
+		
+	}
+	return foo();
+	foo() = 3;
+
+}
+  	

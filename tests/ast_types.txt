@@ -1,0 +1,7 @@
+//structdecl
+struct type { int i; char c; int* b;};
+struct type2 {struct type t;};
+//vardecl
+int* i;
+int k[2];
+struct aa y;

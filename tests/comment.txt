@@ -1,0 +1,12 @@
+/*
+*
+//
+*/
+
+/* multi
+*line
+/comment
+*/
+//oipo
+
+int i;

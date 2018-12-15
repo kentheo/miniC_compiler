@@ -1,0 +1,15 @@
+//funDecl
+int f;
+char c;
+char d;
+int checker(int a, int b) {
+
+}
+
+void main() {
+	int b;
+	checker(f,b); 
+	//checker();
+	f = (int) c;
+	checker(f,b);  
+}

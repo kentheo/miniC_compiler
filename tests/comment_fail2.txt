@@ -1,0 +1,6 @@
+// This is a comment
+int i = 4;
+/* This is another comment
+taking multiple line 
+
+String name = "Kendeas";

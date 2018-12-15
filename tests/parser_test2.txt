@@ -1,0 +1,47 @@
+#include "Kendeas"
+//structdecl
+struct type { int i; char c; };
+//vardecl
+char* character[12];
+int* integer[13];
+//function decl
+int checker (int i, int k) { // start block
+int x;
+int* m[10];
+// stmt
+// while loop
+while ('s' == '\n') {
+	if (key >= 2) {
+		//arrayaccess
+		k[10] = (5 + 4);
+		//funcall
+		fucker();
+		//sizeof
+		sizeof(int);
+		//typecast
+		(int)('c' <= 4);
+		//fieldaccess
+		key.hole = 4;
+		//valueat
+		*(try_me);
+		kendeas;
+		// more lexp ---- fieldaccess
+		key.access = "f"; 
+		// ---- valueat
+		* ((int) "kendeas") = 'c';
+		// identifier
+		test_identifier = "string";
+	}
+	else {
+		{//block
+			//vardecl
+			struct trial* uberto [12];
+			//stmt
+			while (ident.access == "test") {
+				*ident[10] = ident();
+				return jder;
+			} 
+		}
+	}
+}
+}

@@ -1,0 +1,19 @@
+
+int x;
+int* checker(int a, int y) {
+	int c;
+	int d;
+	char k[12];
+	//void x;
+	
+	if (c - d){}
+	
+	
+}
+
+void main(){
+	int a;
+	a;
+}
+
+

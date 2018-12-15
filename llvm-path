@@ -1,0 +1,15 @@
+----Load llvm_dir every time you make a pass
+export LLVM_DIR=~/llvm-course/build2
+
+
+
+----Emit code for test file
+~/llvm-course/build2/bin/clang -c -S -emit-llvm ~/llvm-tests/test_opCounter.c -o ~/llvm-emits/test_opCounter.ll
+
+----Run simpledce pass on test file
+~/llvm-course/build2/bin/opt -load ~/Desktop/my_compiler/part-4/llvm-pass-simple-dce/build/skeleton/libSkeletonPass.so -mem2reg -simpledce ~/llvm-emits/test_dce.ll
+
+----Run mydce pass on test file
+~/llvm-course/build2/bin/opt -load ~/Desktop/my_compiler/part-4/llvm-pass-my-dce/build/skeleton/libSkeletonPass.so -mem2reg -mydce ~/llvm-emits/test_dce.ll -S -o ~/llvm-emits/test_dce_bytecode_output.ll
+
+

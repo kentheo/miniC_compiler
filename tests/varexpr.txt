@@ -1,0 +1,9 @@
+//vardecl
+int a;
+char b;
+
+void main(){
+	a;
+	b;
+	//x;
+}

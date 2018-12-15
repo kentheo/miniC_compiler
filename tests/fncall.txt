@@ -1,0 +1,9 @@
+void main(){
+	foo(test,try,f);
+}
+
+/*
+*This is a comment
+*/
+
+//

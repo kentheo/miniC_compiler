@@ -1,0 +1,4 @@
+//this is a comment 
+int i = 3;
+"kendeas is \t almost\n done"
+'\v'

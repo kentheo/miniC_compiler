@@ -1,0 +1,31 @@
+void main(){
+	foo(test,try,f);
+}
+
+struct s* c (int* i, int f){
+
+	return 5; 
+	'c' || 'd'; 
+	while ('v' != 'c'){
+	} 
+	if (("Kendeas" == "Kendeas")) {
+		return ((int) 5);
+	}
+	else if (3 + 2 != 5){
+		while (x > 3) {
+			int i;
+			int x[2];
+			if (c == 2) {
+				return;
+			} else {
+				while (x < 3){
+					int k;
+				}
+			}
+		}
+	}
+	else {
+		//code('c'.key, *(4), (sizeof(int)));
+			
+	}
+}

@@ -1,0 +1,25 @@
+//vardecl
+int x;
+int y;
+int k[10];
+char c;
+
+
+void checker(int a, int b){
+	int x;
+	x;
+}
+
+void main() {
+	//print_s((char*) "Kendeas"); 
+	print_i(2);
+	print_c('c');
+	c = read_c();
+	x = read_i();
+	mcmalloc(7);
+	k[100] = 2;
+	
+	//checker(x,y);
+	//k[10];
+
+}	

@@ -1,0 +1,11 @@
+struct node_t{
+	int b[2];
+};
+
+struct node_p{
+	int* a;
+	char* c;
+
+};
+
+void main(){}
